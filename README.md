@@ -22,4 +22,4 @@ For example,
 	a) Top profitable state  : Califoria, profit = 76K euros, average discount offered = 20% or less.          		
 	b) Worst profitable state: Texas, profit = -26K euros, average discount offered = 80% or less.
 Overall, it is also observed that due to huge discounts offered on individual products, they generated losses.
-Being a business owner of the retail firm, I would suggest keeping the discount rates in check (not more than 20%) for all the products in all the states. 
+Being a business owner of the retail firm, I would suggest keeping the discount rates in check (not more than 20%) for the products experiencing loss.
